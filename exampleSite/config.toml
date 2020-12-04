@@ -84,7 +84,7 @@ image = "slider-bg2.jpg"
 
 # blog
 [params.blog]
-heading = "The stories we tell define who we are." 
+heading = "Check out some of our recent submissions" 
 
 # call to action
 [params.call_to_action]
