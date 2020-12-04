@@ -1,7 +1,7 @@
 ---
-title: "From Signac to Matisse"
+title: "My Grandmother's Story"
 date: 2020-03-14T15:40:24+06:00
-image : "images/2020-three-quarters-4.png"
+image : "images/rz_lao_lao_1.jpg"
 # author
 author : ["Admin"]
 # categories
