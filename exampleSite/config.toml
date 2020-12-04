@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://jolly-ardinghelli-14ae9a.netlify.app/"
 title = "Twenty Twenty Hugo"
 theme = "twentytwenty"
 languageName = "En"
