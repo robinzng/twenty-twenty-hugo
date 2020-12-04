@@ -83,7 +83,8 @@ image = "slider-bg2.jpg"
 
 # blog
 [params.blog]
-heading = "The stories we tell define who we are. We are inheritors of a powerful narrative tradition, descended from the Epic of Gilgamesh, the Tale of Genji, the Mahabharata, the Romance of Three Kingdoms, and countless other mythologies that preserve our ancestors’ legacies. Now, it’s our turn. It’s our turn to share our personal and inter-generational stories so often overlooked. It’s our turn to preserve and honor the trials and triumphs of ourselves and our families. It is our turn, now, to expand the narrative of what it means to be Asian American."
+heading = "The stories we tell define who we are." 
+content = "We are inheritors of a powerful narrative tradition, descended from the Epic of Gilgamesh, the Tale of Genji, the Mahabharata, the Romance of Three Kingdoms, and countless other mythologies that preserve our ancestors’ legacies. Now, it’s our turn. It’s our turn to share our personal and inter-generational stories so often overlooked. It’s our turn to preserve and honor the trials and triumphs of ourselves and our families. It is our turn, now, to expand the narrative of what it means to be Asian American."
 
 # call to action
 [params.call_to_action]
