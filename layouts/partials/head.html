@@ -16,9 +16,9 @@
   {{ $style := resources.Get "css/style.css" | minify }}
   <link rel="stylesheet" href="{{ $style.Permalink }}" media="screen">
 
-  {{ "Favicon" | safeHTML }}
-  <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
-  <link rel="icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
+  {{ "<!--Favicon-->" | safeHTML }}
+  <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/png">
+  <link rel="icon" href="{{ `images/favicon.png` | absURL }}" type="image/png">
 
   <script>
 		document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
