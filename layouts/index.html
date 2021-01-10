@@ -9,6 +9,23 @@
   </header>
   {{ end }}
 
+  {{ if .Site.Params.call_to_action.enable }}
+  {{ with .Site.Params.call_to_action }}
+  <div class="wp-block-group alignwide has-background" style="background-color:#ffffff">
+    <div class="wp-block-group__inner-container">
+      <div class="wp-block-group">
+        <div class="wp-block-group__inner-container">
+          <h2 class="has-text-align-center">{{ .title | markdownify }}</h2>
+          <p class="has-text-align-center">{{ .content | markdownify }}</p>
+          <div class="wp-block-button aligncenter"><a class="wp-block-button__link"
+              href="{{ .button_url | absURL }}">{{ .button_label }}</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  {{ end }}
+  {{ end }}
+
   {{ with.Site.Params.banner.image}}
   <figure class="featured-media">
     <div class="featured-media-inner section-inner">
@@ -44,23 +61,6 @@
         </div>
         {{ end }}
       </div>
-
-      {{ if .Site.Params.call_to_action.enable }}
-      {{ with .Site.Params.call_to_action }}
-      <div class="wp-block-group alignwide has-background" style="background-color:#ffffff">
-        <div class="wp-block-group__inner-container">
-          <div class="wp-block-group">
-            <div class="wp-block-group__inner-container">
-              <h2 class="has-text-align-center">{{ .title | markdownify }}</h2>
-              <p class="has-text-align-center">{{ .content | markdownify }}</p>
-              <div class="wp-block-button aligncenter"><a class="wp-block-button__link"
-                  href="{{ .button_url | absURL }}">{{ .button_label }}</a></div>
-            </div>
-          </div>
-        </div>
-      </div>
-      {{ end }}
-      {{ end }}
 
       
       {{ if .Site.Params.gallery.enable }}
