@@ -98,7 +98,7 @@ heading = "Check out some of our recent submissions"
 [params.footer]
 title = "About Us"
 content = "We are an Asian-American collective dedicated to preserving the richness of the Asian-American experience."
-copyright = "Copyright &copy; 2020 RZ"
+copyright = "Copyright &copy; 2021 WIRF"
 
 ############################# social site ########################
 [params.social]
