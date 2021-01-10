@@ -82,10 +82,6 @@ expire_days = 2
 heading = "Stories from the Asian-American Diaspora"
 image = "slider-bg2.jpg"
 
-# blog
-[params.blog]
-heading = "Check out some of our recent submissions" 
-
 # call to action
 [params.call_to_action]
 enable = true
@@ -93,6 +89,10 @@ title = "We'd love to hear from you"
 content = "This is a space to preserve the Asian-American experience, in all its complexity, before it is lost."
 button_label = "Share a story"
 button_url = "contact"
+
+# blog
+[params.blog]
+heading = "Check out some of our recent submissions" 
 
 # gallery
 [params.gallery]
