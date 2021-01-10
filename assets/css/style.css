@@ -2242,6 +2242,7 @@ button.search-untoggle {
 	position: relative;
 	width: 100%;
 	z-index: 1;
+	background-image: "slider-bg2.jpg"
 }
 
 .cover-header .entry-header * {
