@@ -2245,6 +2245,10 @@ button.search-untoggle {
 }
 
 .cover-header .entry-header * {
+	background-image: "slider-bg2.jpg"
+}
+
+.cover-header .entry-header * {
 	color: #fff;
 }
 
