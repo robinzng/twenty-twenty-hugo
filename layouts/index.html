@@ -8,7 +8,7 @@
     </div>
   </header>
   {{ end }}
-  {{ with.Site.Params.banner.image}}
+  {{ with .Site.Params.banner.image }}
   <figure class="featured-media">
     <div class="featured-media-inner section-inner">
       <img width="1200" height="769" src="{{ . | absURL }}"
