@@ -1,7 +1,7 @@
 ---
-title: "Blog"
+title: "Read"
 # meta description
-description: "This is meta description"
+description: ""
 # save as draft
 draft: false
 ---
