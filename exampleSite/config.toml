@@ -40,22 +40,22 @@ weight = 1
 
 [[menu.main]]
 name = "Read"
-URL = "about"
+URL = "blog"
 weight = 2
 
 [[menu.main]]
 name = "Submit"
-URL = "blog"
+URL = "contact"
 weight = 3
 
 [[menu.main]]
 name = "Resources"
-URL = "contact"
+URL = "sample-page"
 weight = 4
 
 [[menu.main]]
-name = "Learn"
-URL = "sample-page"
+name = "About Us"
+URL = "about"
 weight = 5
 
 # only desktop menu
