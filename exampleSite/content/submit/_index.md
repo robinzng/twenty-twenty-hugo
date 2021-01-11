@@ -13,4 +13,4 @@ bg_image: "images/slider-bg2.jpg"
 
 3. Our editors will reach out to you with suggestions, questions, or a link to your newly-posted story!
 
-4. Share widely. Together, we can amplify Asian American voices. <br><br>
+4. Share widely. Together, we can amplify Asian American voices. <br>
