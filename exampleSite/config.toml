@@ -97,4 +97,4 @@ heading = "Check out some of our recent submissions"
 [params.social]
 facebook = "#"
 instagram = "#"
-email = <a href="wirfeditors@gmail.com" target="_blank"></a>
+email = "wirfeditors@gmail.com"

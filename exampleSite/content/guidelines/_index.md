@@ -59,4 +59,4 @@ Promotion, spam, or personal links are not allowed! We will remove them.
 You must have some extraordinary people in your life! We will not recycle material and we expect that you will not either. “Submitted” does not mean “Approved,” just that we have received your submission and will be looking it over shortly.
 
 ## **What to do if you see someone violating our guidelines:**
-Please email us at wirfeditors@gmail.com to let us know! We welcome any and all feedback.
+Please email us at <a href="wirfeditors@gmail.com" target="_blank">wirfeditors@gmail.com</a> to let us know! We welcome any and all feedback.
