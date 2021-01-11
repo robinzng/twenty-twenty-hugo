@@ -7,7 +7,7 @@ bg_image: "images/slider-bg2.jpg"
 
 ## How it works: 
 
-1. Check out our [Interviewing Tips](https://drive.google.com/drive/folders/1_zsm2GjuAIxTC6U1I2bYiNB3BIS_7TZj) for how to interview your family members for stories.
+1. Check out our [Community Guidelines](/guidelines/) [Interviewing Tips](https://drive.google.com/drive/folders/1_zsm2GjuAIxTC6U1I2bYiNB3BIS_7TZj).
 
 2. Refer to our example stories below, for inspiration and guidance:
 * Short Family Story Example: [Short Family Story](https://www.whereimreallyfrom.com/read/pink_boxes_20201119/)
