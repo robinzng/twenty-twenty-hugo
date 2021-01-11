@@ -15,10 +15,10 @@
 </article>
 
 <script type="text/javascript">var submitted=false;</script>
-<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
-onload="if(submitted) {window.location.pathname='thankyou.html';}"></iframe>
+  <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
+  onload="if(submitted) {window.location.pathname='thankyou.html';}"></iframe>
 
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSfzFnNfhTv-8GhCxrhJdLEws6jV3iOQJiDcLKHy--aDdUk15Q/formResponse" method="post" onsubmit="submitted=true;">
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSfzFnNfhTv-8GhCxrhJdLEws6jV3iOQJiDcLKHy--aDdUk15Q/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
   <input type="email" placeholder="Email Address*" name="entry.732395290" required>
 
   <input type="text" placeholder="Name" name="entry.1340498882">
@@ -57,9 +57,6 @@ onload="if(submitted) {window.location.pathname='thankyou.html';}"></iframe>
             <div class="form-group-2">
               <textarea name="entry.814778669" class="form-control" rows="4" placeholder="Your Story*"></textarea>
             </div>
-
-            
-
             <button class="button" style="width:150px;align-content: center;" type="submit">Submit!</button>
           </div>
         </div>
