@@ -14,7 +14,7 @@ bg_image: "images/slider-bg2.jpg"
    * Family History Timeline Example: [Family History Timeline](https://www.whereimreallyfrom.com/read/family_history_timeline_20201010/)
    * Oral History Recording Example: [Oral History Recording](https://www.whereimreallyfrom.com/read/rz_lao_lao_20201105/)
 
-3. Fill out the form below. If you'd like to attach multi-media to your story, please email us at <a href="mailto:wirfeditors@gmail.com" target="_blank">wirfeditors@gmail.com</a>.
+3. Fill out the form below. If you'd like to attach multi-media to your story, please email us at <a href="wirfeditors@gmail.com" target="_blank">wirfeditors@gmail.com</a>.
 
 4. Our editors will reach out to you with suggestions, questions, or a link to your newly-posted story!
 
