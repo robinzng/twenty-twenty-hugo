@@ -21,8 +21,8 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/submit
-  label: Submit
+  path: exampleSite/content/contact
+  label: Contact
   create: none
   match: "*"
 - type: directory
