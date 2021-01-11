@@ -84,9 +84,9 @@ heading = "Stories from the Asian-American Diaspora"
 # call to action
 [params.call_to_action]
 enable = true
-title = "We'd love to hear from you"
-content = "This is a space to preserve the Asian-American experience, in all its complexity, before it is lost."
-button_label = "Share a story"
+title = "We'd love to hear your perspective"
+content = "Help us preserve the Asian-American experience, in all its complexity, by adding "
+button_label = "Share your story now"
 button_url = "contact"
 
 # blog
