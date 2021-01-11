@@ -102,9 +102,6 @@ copyright = "Copyright &copy; 2021 WIRF"
 
 ############################# social site ########################
 [params.social]
-yelp = "#"
 facebook = "#"
-twitter = "#"
 instagram = "#"
-email = "#"
-linkedin = "#"
+email = "wirfeditors@gmail.com"
