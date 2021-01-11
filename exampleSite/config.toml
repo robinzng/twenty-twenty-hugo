@@ -45,7 +45,7 @@ weight = 2
 
 [[menu.main]]
 name = "Submit"
-URL = "contact"
+URL = "submit"
 weight = 3
 
 [[menu.main]]
@@ -61,7 +61,7 @@ weight = 5
 # only desktop menu
 [[menu.desktop]]
 name = "Submit"
-URL = "contact"
+URL = "submit"
 weight = 1
 
 
@@ -87,7 +87,7 @@ enable = true
 title = "We'd love to hear your perspective"
 content = "Help us preserve the Asian-American experience, in all its complexity, before it is lost."
 button_label = "Share your story now"
-button_url = "contact"
+button_url = "submit"
 
 # blog
 [params.blog]
