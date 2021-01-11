@@ -1,7 +1,7 @@
 ---
 title: "Family History Timeline"
 date: 2020-10-10
-author: Anonymous
+author: "Anonymous"
 image : "images/blog/family_history_timeline_20201010.jpg"
 bg_image: "images/blog/family_history_timeline_20201010.jpg"
 categories: ["Video","Text","Timeline"] 
