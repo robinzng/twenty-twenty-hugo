@@ -1,17 +1,15 @@
 ---
-title: "Family History Timeline"
+title: "My Family History"
 date: 2020-10-10
 author: ["Anonymous"]
-image : "images/blog/family_history_timeline_20201010.jpg"
-bg_image: "images/blog/family_history_timeline_20201010.jpg"
+image : "images/family_history_timeline_20201010.jpg"
+bg_image: "images/family_history_timeline_20201010.jpg"
 categories: ["Video","Text","Timeline"] 
 tags: ["History","Korea","Immigration"]
 description: "Family History Timeline"
 draft: false
 type: "post"
 ---
-
-## My Family History </p>
 
 Growing up, my father was a huge history buff. He had a big bookshelf full of antiques, from old Edison rolls and typewriters to an ever-growing collection of old family photos.
 We would regularly spend Sunday afternoons going through, first real Polaroids, and eventually, electronic slide shows of his family history. My Dad is Caucasian, and thanks to 
