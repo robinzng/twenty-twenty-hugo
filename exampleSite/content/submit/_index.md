@@ -1,6 +1,5 @@
 ---
 title: "Share your story"
-bg_image: "images/2020-landscape-2.png"
 # meta description
 description: ""
 # save as draft
