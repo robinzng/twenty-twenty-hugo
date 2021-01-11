@@ -1,20 +1,10 @@
 ---
-title: "Submit"
+title: "Share your story"
 bg_image: "images/2020-landscape-2.png"
 # meta description
-description: "This is meta description"
+description: ""
 # save as draft
 draft: false
----
-
-This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form.
-
-
----
-title: "Share your story"
-description: ""
-draft: false
-bg_image: "images/slider-bg2.jpg"
 ---
 
 ## How it works: 
