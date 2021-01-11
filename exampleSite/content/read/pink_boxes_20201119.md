@@ -13,7 +13,7 @@ description: ""
 draft: false
 ---
 
-<img src="/images/blog/pink_boxes_20201119.jpeg" alt="Four-year-old me at Best Donuts — with one of my signature bowl cuts (Credit: Yin Y Chen)"/>
+<img src="/images/pink_boxes_20201119.jpeg" alt="Four-year-old me at Best Donuts — with one of my signature bowl cuts (Credit: Yin Y Chen)"/>
 
 <p></p>
 

@@ -5,9 +5,9 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Blog Post
+  label: Read
 - type: directory
-  path: exampleSite/content/blog
+  path: exampleSite/content/read
   label: Post
   create: documents
   match: "**/*"
