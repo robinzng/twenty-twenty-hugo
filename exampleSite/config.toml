@@ -50,7 +50,7 @@ weight = 3
 
 [[menu.main]]
 name = "Resources"
-URL = "sample-page"
+URL = "resources"
 weight = 4
 
 [[menu.main]]
