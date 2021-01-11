@@ -93,11 +93,6 @@ button_url = "contact"
 [params.blog]
 heading = "Check out some of our recent submissions" 
 
-
-# footer
-[params.footer]
-copyright = "Copyright &copy; 2021 WIRF"
-
 ############################# social site ########################
 [params.social]
 facebook = "#"
